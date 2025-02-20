@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+html {
+  @apply bg-gradient-to-tr from-slate-900 to-slate-950 text-gray-50 font-sans;
+  @apply min-h-screen;
+}
